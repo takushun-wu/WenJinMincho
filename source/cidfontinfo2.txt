@@ -2,7 +2,7 @@ FontName       (WenJinMinchoP2-Regular)
 FullName       (WenJin Mincho Plane 2 Regular)
 FamilyName     (WenJin Mincho)
 Weight         (Regular)
-version        (0.101)
+version        (0.102)
 Registry       (Adobe)
 Ordering       (Identity)
 Supplement     0

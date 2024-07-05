@@ -62,7 +62,7 @@ feature aalt {
   feature ss01;
 } aalt;
 table head {
-  FontRevision 0.101;
+  FontRevision 0.102;
 } head;
 
 table hhea {

@@ -1,6 +1,14 @@
 [WenJinMinchoP0-Regular]
 	f=3,1,0x804,文津宋体 第0平面
 	s=3,1,0x804,常规
+	f=3,1,0x404,文津宋體 第0平面
+	s=3,1,0x404,常規
+	f=3,1,0xC04,文津宋體 第0平面
+	s=3,1,0xC04,常規
+	f=3,1,0x411,文津明朝 第0平面
+	s=3,1,0x411,標準
+	f=3,1,0x412,문진(文津) 명조 평면 0
+	s=3,1,0x412,일반
 	f=WenJin Mincho Plane 0
 	s=Regular
 	f=1,0,0,WenJin Mincho Plane 0
@@ -9,6 +17,14 @@
 [WenJinMinchoP2-Regular]
 	f=3,1,0x804,文津宋体 第2平面
 	s=3,1,0x804,常规
+	f=3,1,0x404,文津宋體 第2平面
+	s=3,1,0x404,常規
+	f=3,1,0xC04,文津宋體 第2平面
+	s=3,1,0xC04,常規
+	f=3,1,0x411,文津明朝 第2平面
+	s=3,1,0x411,標準
+	f=3,1,0x412,문진(文津) 명조 평면 2
+	s=3,1,0x412,일반
 	f=WenJin Mincho Plane 2
 	s=Regular
 	f=1,0,0,WenJin Mincho Plane 2
@@ -17,6 +33,14 @@
 [WenJinMinchoP3-Regular]
 	f=3,1,0x804,文津宋体 第3平面
 	s=3,1,0x804,常规
+	f=3,1,0x404,文津宋體 第3平面
+	s=3,1,0x404,常規
+	f=3,1,0xC04,文津宋體 第3平面
+	s=3,1,0xC04,常規
+	f=3,1,0x411,文津明朝 第3平面
+	s=3,1,0x411,標準
+	f=3,1,0x412,문진(文津) 명조 평면 3
+	s=3,1,0x412,일반
 	f=WenJin Mincho Plane 3
 	s=Regular
 	f=1,0,0,WenJin Mincho Plane 3

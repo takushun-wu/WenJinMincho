@@ -43,7 +43,7 @@ $$\textbf{G}>\textbf{UK}>\text{UTC}>\text{H}>\text{M}>\text{T}>\text{J}>\text{K}
 - 本字体支持的拼音和注音系统参考：[一点明体功能记录8.100版](https://github.com/ichitenfont/I.Ming/blob/master/8.10/I.Ming_functional_report_8.100.pdf)
 ![拼音和注音系统演示](pic/pinyin.png) 
 ### 🏗️国际音标字符支持
-- 支持国际音标字符的显示［组合用符号位置自动调节（mark、mkmk特性）尚未支持］。
+- 支持国际音标字符的显示，支持组合用符号位置自动调节（OpenType中的`mark`、`mkmk`特性）功能（自动启用，无须单独设置）。
 ![IPA演示](pic/ipa.png)
 ### ✅字符异体/样式自由切换
 > [!WARNING]
@@ -58,7 +58,7 @@ $$\textbf{G}>\textbf{UK}>\text{UTC}>\text{H}>\text{M}>\text{T}>\text{J}>\text{K}
 ![ss11特性演示](pic/ss11.png)
 - `cpct`：将标点放在中间位置（也可通过SVS来调用）；
 ![cpct特性演示](pic/cpct.png)
-- `hwid`/`fwid`/`zero`：半角/全角ASCII字符；数字零的斜线形式（也可通过SVS来调用）。
+- `hwid`/`fwid`/`zero`：半角/全角字符；数字零的斜线形式（也可通过SVS来调用）。
 ![hwid/fwid/zero特性演示](pic/hwid_fwid_zero.png)
 ### ✅标点挤压支持
 > [!WARNING]
@@ -83,7 +83,7 @@ $$\textbf{G}>\textbf{UK}>\text{UTC}>\text{H}>\text{M}>\text{T}>\text{J}>\text{K}
 ### 您可以：
 - 任何个人、团体、组织及企业可免费进行商业目的和非商业目的使用，无需支付费用、事先告知作者、标明来源信息或征得作者许可；
 - 对字体文件进行二次发布或安装、嵌入到任何软件或设备中，同时软件或设备可被再次分发/销售（若制作仅以安装本字体为目的之安装包必须免费配布，不得进行付费盈利，否则视作字体倒卖/变相倒卖行为）；
-- 对字体文件进行修改、扩充和格式转换，但修改过后的文件**必须以SIL Open Font License的授权形式**发表，同时**不得使用本字体的保留名称（以及它的其他语言的翻译形式）：WenJin Mincho、文津宋体**（若仅对源字体进行格式转换，不进行任何其他修改可继续使用该保留名称）。
+- 对字体文件进行修改、扩充和格式转换，但修改过后的文件**必须以SIL Open Font License的授权形式**发表，同时**不得使用本字体的保留名称（以及它的其他语言的翻译形式）：WenJin Mincho、文津宋体、文津宋體、文津明朝、문진(文津) 명조**（若仅对源字体进行格式转换，不进行任何其他修改可继续使用该保留名称）。
 ### 您不可以：
 - 对字体文件中的任何部分（包括但不限于字形、OpenType特性逻辑）进行倒卖兜售（或其变相付费等类似行为），包括但不限于：将字体文件单独售卖、与其他字体进行捆绑售卖、需付费办理特殊权限才可使用字体等；
 - 将字体文件中的任何部分以非SIL Open Font License授权协议发表；

@@ -1,5 +1,5 @@
 Copyright (c) 2024, Takushun Wu (https://github.com/takushun-wu/),
-with Reserved Font Name 'WenJin Mincho'.
+with Reserved Font Name 'WenJin Mincho', '文津宋体', '文津宋體', '文津明朝', '문진(文津) 명조'.
 &nbsp;
 
 

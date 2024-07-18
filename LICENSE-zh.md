@@ -2,7 +2,7 @@
 > 
 > 译文链接：https://www.maoken.com/ofl
 
-版权所有©2024，Takushun Wu(https://github.com/takushun-wu/)，并保留字型名称“WenJin Mincho”。
+版权所有©2024，Takushun Wu(https://github.com/takushun-wu/)，并保留字型名称“WenJin Mincho”、“文津宋体”、“文津宋體”、“文津明朝”、“문진(文津) 명조”。
 &nbsp;
 
 

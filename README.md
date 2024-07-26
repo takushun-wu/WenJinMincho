@@ -5,7 +5,7 @@ A large character set Songti(Mincho) fonts mainly derived by [Source Han Serif](
 
 ## 安装指南
 - 三个单独的字体文件（otf或ttf后缀，下面会提到）与其对应的TTC字体包任选其一安装即可。二者字体数据和功能相同。
-- Windows系统建议选择TTF版本安装（OTF版本在竖排时会存在一些问题）；
+- Windows系统建议选择TTF版本安装；
 - macOS/Linux/FreeBSD等(类)Unix系统建议选择OTF版本安装。
 ### OTF字体文件（PostScript曲线）
 - `otf/WenJinMinchoP[0|2|3]-Regular.otf` 三个单独的OpenType字体文件，每个文件包含对应平面的字符，数字代表平面编号。
@@ -54,6 +54,8 @@ $$\textbf{G}>\textbf{UK}>\text{UTC}>\text{H}>\text{M}>\text{T}>\text{J}>\text{K}
 ![cv特性演示](pic/cv11.png)
 - `ss01`：汉语拼音的手写体a、g；
 ![ss01特性演示](pic/ss01.png)
+- `ss02`/`ss03`：注音符号调号全角显示/右上角显示；
+![ss02&ss03特性演示](pic/ss02_ss03.png)
 - `ss11`：宋体形式的部首扩充/康熙部首；
 ![ss11特性演示](pic/ss11.png)
 - `cpct`：将标点放在中间位置（也可通过SVS来调用）；
@@ -98,7 +100,7 @@ $$\textbf{G}>\textbf{UK}>\text{UTC}>\text{H}>\text{M}>\text{T}>\text{J}>\text{K}
 
 ## 注意事项
 - 尽管作者在制作字体时力图准确和易用性，但因技术、个人能力和精力有限，无法保证字体本身数据的准确性及预期呈现效果在您的设备是否能够完美复现。因此，作者不对本字体作任何明示或暗示的保证，同时作者不承担您使用该字体所产生的任何索赔、损害或可归责事由而来的任何责任，请用户谅解。如果您使用该字体时遇到问题，恳请尽快[向作者反馈](README.md/#联系方式)。
-- 由于第2、3平面的多数1000ppem版本字形正处于制作阶段，故暂使用[SuperHan](https://github.com/takushun-wu/SuperHan)来填满字形（*PS：本字体项目的立意就是替代SuperHan*）。
+- 由于第2、3平面的部分1000ppem版本字形正处于制作阶段，故暂使用[SuperHan](https://github.com/takushun-wu/SuperHan)来填满字形（*PS：本字体项目的立意就是替代SuperHan*）。
 - V源字形因无严格标准（[喃那宋](https://github.com/nomfoundation/font)在严格意义上不算为标准），故该字体的V源字形仅供参考。
 - 部分不同编码的表意文字异体序列（IVS）字形在图形角度上几乎完全相同，为减少本字体的文件体积，故这些编码在字体文件中会映射到同一字形，微小的字形差异（不至于达到IVS层面分别编码）会被认同，请用户悉知。
 

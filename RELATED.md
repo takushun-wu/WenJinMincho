@@ -1,8 +1,9 @@
 # 相关字体和资源
 ### 字体（或其生成工具）
-- 思源宋体及其衍生版本
+- 思源宋体及其衍生版本：
     - [原版](https://github.com/adobe-fonts/source-han-serif)
     - [Adobe-KR字符集版](https://github.com/adobe-type-tools/Adobe-KR/releases/tag/20190729)
+    - [昭源宋体](https://github.com/chiron-fonts/chiron-sung-hk)
     - [源样明朝](https://github.com/ButTaiwan/genyo-font)
     - [阮明朝](https://github.com/TKYKmori/Minh-Nguyen/)
     - [CJK Radicals](https://github.com/adobe-fonts/cjk-radicals)

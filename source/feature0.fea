@@ -42,7 +42,7 @@ table OS/2 {
   WidthClass 5;
   Panose 2 2 4 0 0 0 0 0 0 0;
   FSType 0;
-  Vendor "Tksh";
+  Vendor "TKSW";
   winAscent 1151;
   winDescent 286;
   UnicodeRange 0 1 2 3 4 5 6 7 9 29 30 31 32 33 35 36 37 38 45 48 51 57 59 61 62 65 68;
@@ -50,28 +50,28 @@ table OS/2 {
 } OS/2;
 
 feature aalt {
-  feature sups;
-  feature subs;
-  feature locl;
-  feature vert;
   feature cpct;
-  feature zero;
-  feature halt;
-  feature vhal;
-  feature hist;
   feature cv01;
   feature cv02;
   feature cv11;
+  feature fwid;
+  feature hist;
+  feature hwid;
+  feature locl;
+  feature pwid;
   feature ss01;
   feature ss02;
   feature ss03;
   feature ss11;
-  feature hwid;
-  feature fwid;
-  feature pwid;
+  feature subs;
+  feature sups;
+  feature vert;
+  feature vrt2;
+  feature vrtr;
+  feature zero;
 } aalt;
 table head {
-  FontRevision 0.121;
+  FontRevision 0.122;
 } head;
 
 table hhea {

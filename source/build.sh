@@ -2,13 +2,13 @@
 echo -e "\e[92m[1] Generating OTF file...\e[0m"
 mkdir otf
 echo -e "\e[32m[1a] Generating P0 OTF file...\e[0m"
-makeotf -nshw -f P0.ps -omitMacNames -ff feature0.fea -mf FontMenuNameDB \
+makeotf -nshw -f P0_h.pfb -omitMacNames -ff feature0.fea -mf FontMenuNameDB \
     -r -addn -ch UniWenJinMincho-P0-UTF32-H -cs 25 -ci uvs0.txt -fi cidfontinfo0.txt -o ./otf/
 echo -e "\e[32m[1b] Generating P2 OTF file...\e[0m"
-makeotf -nshw -f P2.ps -omitMacNames -ff feature2.fea -mf FontMenuNameDB \
+makeotf -nshw -f P2_h.pfb -omitMacNames -ff feature2.fea -mf FontMenuNameDB \
     -r -addn -ch UniWenJinMincho-P2-UTF32-H -cs 25 -ci uvs2.txt -fi cidfontinfo2.txt -o ./otf/
 echo -e "\e[32m[1c] Generating P3 OTF file...\e[0m"
-makeotf -nshw -f P3.ps -omitMacNames -ff feature3.fea -mf./data/FontMenuNameDB \
+makeotf -nshw -f P3_h.pfb -omitMacNames -ff feature3.fea -mf./data/FontMenuNameDB \
     -r -addn -ch UniWenJinMincho-P3-UTF32-H -cs 25 -ci uvs3.txt -fi cidfontinfo3.txt -o ./otf/
 echo -e "\e[92m[2] Generating TTF file...\e[0m"
 mkdir ttf

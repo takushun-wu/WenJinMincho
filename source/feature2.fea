@@ -38,7 +38,7 @@ feature aalt {
     feature cv02;
 } aalt;
 table head {
-  FontRevision 0.501;
+  FontRevision 0.502;
 } head;
 
 table hhea {

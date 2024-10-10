@@ -38,7 +38,7 @@ feature aalt {
     feature cv02;
 } aalt;
 table head {
-  FontRevision 0.502;
+  FontRevision 0.503;
 } head;
 
 table hhea {
@@ -1258,34 +1258,35 @@ lookup ideo_cv01_P2 {
     sub \11472 by \11473;
     sub \11477 by \11478;
     sub \11657 by \11658;
-    sub \17114 by \17115;
-    sub \17751 by \17752;
-    sub \21685 by \21686;
-    sub \21744 by \21745;
-    sub \22562 by \22563;
-    sub \24153 by \24154;
-    sub \24334 by \24335;
-    sub \25563 by \25564;
-    sub \26711 by \26712;
-    sub \27270 by \27271;
-    sub \27804 by \27805;
-    sub \28518 by \28519;
-    sub \32574 by \32575;
-    sub \33431 by \33432;
-    sub \43400 by \43401;
-    sub \43490 by \43491;
-    sub \43683 by \43684;
-    sub \44303 by \44304;
-    sub \46219 by \46220;
-    sub \46932 by \46933;
-    sub \48405 by \48406;
-    sub \49719 by \49720;
-    sub \50842 by \50843;
-    sub \52986 by \52987;
-    sub \53466 by \53467;
-    sub \57642 by \57643;
-    sub \60066 by \60067;
-    sub \60294 by \60295;
+    sub \17025 by \17026;
+    sub \17115 by \17116;
+    sub \17752 by \17753;
+    sub \21686 by \21687;
+    sub \21745 by \21746;
+    sub \22563 by \22564;
+    sub \24154 by \24155;
+    sub \24335 by \24336;
+    sub \25564 by \25565;
+    sub \26712 by \26713;
+    sub \27271 by \27272;
+    sub \27805 by \27806;
+    sub \28519 by \28520;
+    sub \32575 by \32576;
+    sub \33432 by \33433;
+    sub \43401 by \43402;
+    sub \43491 by \43492;
+    sub \43684 by \43685;
+    sub \44304 by \44305;
+    sub \46220 by \46221;
+    sub \46933 by \46934;
+    sub \48406 by \48407;
+    sub \49720 by \49721;
+    sub \50843 by \50844;
+    sub \52987 by \52988;
+    sub \53467 by \53468;
+    sub \57643 by \57644;
+    sub \60067 by \60068;
+    sub \60295 by \60296;
 } ideo_cv01_P2;
 
 lookup ideo_cv02_P2 {
@@ -1295,12 +1296,13 @@ lookup ideo_cv02_P2 {
     sub \2571 by \2572;
     sub \4004 by \4005;
     sub \16142 by \16143;
-    sub \21744 by \21745;
-    sub \25563 by \25564;
-    sub \53466 by \53467;
-    sub \57642 by \57643;
-    sub \60066 by \60067;
-    sub \60294 by \60295;
+    sub \17025 by \17026;
+    sub \21745 by \21746;
+    sub \25564 by \25565;
+    sub \53467 by \53468;
+    sub \57643 by \57644;
+    sub \60067 by \60068;
+    sub \60295 by \60296;
 } ideo_cv02_P2;
 
 # Auto-generated fea file

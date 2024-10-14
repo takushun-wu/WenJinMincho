@@ -63,6 +63,7 @@ A large character set Songti(Mincho) fonts mainly derived by [Source Han Serif](
 ### 本项目地址
 - **【更新首发】GіtΗub：https://github.com/takushun-wu/WenJinMincho**<br>**（请确保上面的是GіtΗub链接）**
 - Gitee：https://gitee.com/takushun/WenJinMincho
+- 百度网盘（仅提供字体文件与手册，包含历史版本，建议选择最新版本下载）：https://pan.baidu.com/s/1w98fMLCg3Zs9Ke0NabCJ3A?pwd=sffa
 ### 联系方式
 - 代码托管平台
     * GіtΗub：https://github.com/takushun-wu/<br>**（请确保上面的是GіtΗub链接）**

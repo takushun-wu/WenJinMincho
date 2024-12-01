@@ -2,7 +2,7 @@ FontName       (WenJinMinchoP3-Regular)
 FullName       (WenJin Mincho Plane 3 Regular)
 FamilyName     (WenJin Mincho)
 Weight         (Regular)
-version        (0.700)
+version        (0.701)
 Registry       (Adobe)
 Ordering       (Identity)
 Supplement     0

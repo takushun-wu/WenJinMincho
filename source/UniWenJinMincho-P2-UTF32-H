@@ -61,8 +61,9 @@ end def
 1 begincodespacerange
   <00000000> <0010FFFF>
 endcodespacerange
-20 begincidchar
+21 begincidchar
 <000000a0> 1
+<000000ad> 14
 <000025cc> 101
 <00020e0f> 3713
 <00020f2e> 4004

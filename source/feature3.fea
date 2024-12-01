@@ -39,7 +39,7 @@ feature aalt {
     feature ss12;
 } aalt;
 table head {
-  FontRevision 0.700;
+  FontRevision 0.701;
 } head;
 
 table hhea {

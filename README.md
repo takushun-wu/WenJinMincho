@@ -73,7 +73,8 @@
 - QQ：②❽③❸⑨❹④❻①❸（添加好友请备注“**文津宋体问题反馈**”，暂不接受字体定制请求）
 #### 若通过下面的联系方式联系，我可能无法及时回复。
 - 哔哩哔哩：https://space.bilibili.com/156861970
-- 知乎：[点此查看知乎主页](https://www.zhihu.com/people/wu-zhuo-jun-78)
+- 知乎：[点此查看知乎个人主页](https://www.zhihu.com/people/wu-zhuo-jun-78)
+- 小红书：[点此查看小红书个人主页](https://www.xiaohongshu.com/user/profile/674b1b38000000001d02ed26)
 - 𝕏（推特）：[@TakushunWu](https://x.com/TakushunWu)
 
 ## 打赏支持

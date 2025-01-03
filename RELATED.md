@@ -25,3 +25,5 @@
 - [FontForge](https://fontforge.org/en-US/)
 - [AFDKO](https://github.com/adobe-type-tools/afdko)
 - [fontTools](https://github.com/fonttools/fonttools)
+
+<font size="2">**注：** 本页面提到的字体等资源可能包含商标，且这些商标是由各自的商标持有人所有。</font>

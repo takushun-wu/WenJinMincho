@@ -1,5 +1,17 @@
-Copyright (c) 2024, Takushun Wu (https://github.com/takushun-wu/),
+Copyright (c) 2024-2025, Takushun Wu (https://github.com/takushun-wu/),
 with Reserved Font Name 'WenJin Mincho', '<span lang="zh-Hans">文津宋体</span>', '<span lang="zh-Hant">文津宋體</span>', '<span lang="ja">文津明朝</span>', '<span lang="ko">문진(文津) 명조</span>'.
+
+Copyright 2010-2024 Adobe (http://www.adobe.com/), with Reserved Font
+Name 'Source'. All Rights Reserved. Source is a trademark of Adobe in the United States
+and/or other countries.
+
+Copyright 2021-2024 Tamcy (https://github.com/chiron-fonts/chiron-sung-hk).
+
+Copyright 2022-2024 Shanggu Fonts (https://github.com/GuiWonder/Shanggu).
+
+© 2007–2024 Adobe, But Ko, CMEX, Creative Commons Corporation, GlyphWiki & Night Koo.
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic). Noto is a trademark of Google Inc.
 &nbsp;
 
 

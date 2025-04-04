@@ -3,6 +3,10 @@
 # 文津宋体
 一套以[思源宋体](https://github.com/adobe-fonts/source-han-serif)及[修改版Kage引擎](https://github.com/ge9/kage-engine-2/)生成的汉字为主进行二次开发的大字符集宋体字库，字形主要以中国大陆地区字形标准呈现。
 
+> [!CAUTION]
+>
+> 由于维护成本以及Gitee本身限制等原因，到v2.000版本（2025年下半年）发布之后，本字体的Gitee存储库将不再更新。请用户尽早转向GіtΗub官方链接、下述的百度网盘、猫啃网等下载链接下载最新版。
+
 ## 简介
 文津宋体是一套以思源宋体及其衍生版本、利用GlyphWiki数据和修改版Kage引擎生成的汉字为主进行二次开发的大字符集宋体字库，实现Unicode定义的汉字和表意文字异体数据库（IVD）注册的字形全覆盖，其中Unicode汉字字形主要以中国大陆地区字形标准呈现。该字体系列采用OFL协议，任何个人与团体均可免费商用。
 
@@ -53,6 +57,16 @@
 
 **[相关字体和资源](RELATED.md)**
 
+## 有关字体格式…
+- 本字体分为标准版OTF`otf/WenJinMinchoP#-Regular.otf`（PostScript曲线）、标准版TTF`ttf/WenJinMinchoP#-Regular.ttf`（TrueType曲线）、缩窄间距版TTF版本`ttf/WenJinMinchoCP#-Regular.ttf`以及Windows GDI兼容版TTF版本`ttf/WenJinMinchoWP#-Regular.ttf`。用户可根据实际情况任选其一安装；
+- 每个版本又分为TTC/OTC整合包版本和三个单独的TTF/OTF字体文件版本，用户仅需选择其一安装即可。
+
+### 版本选择建议：
+- Windows系统建议选择TTF版本安装，若您经常使用Adobe设计软件，可选择OTF版本（OTF版本字体文件在Microsoft Office中无法嵌入字体，同时其自带的导出PDF功能无法转化成可复制的文字）；
+- macOS/iOS/Linux/BSD/Android等（类）Unix系统建议选择OTF版本安装；
+- 此外还提供了缩窄间距版TTF版本（字体/压缩包文件名带有“C”的版本）。在Microsoft Word等环境下行间不会出现太多空白（默认情况下，效果与“等线”、“宋体”等字体相仿）。
+- 如果您在Windows系统中主要使用基于Windows GDI环境的应用程序（如Word 2010、BabelStone Pad），发现引号会被显示为西文形式，在Word 2010中左引号会位于左侧，且空出一段空白；再或者某些标点显示为西文形式（变宽，而不是中文全角形式），可选择Windows GDI兼容版（行间距参数与缩窄间距版相同）。**其他情况或非Windows系统不建议选择**（只有Uniscribe塑形引擎存在上述问题；DirectWrite、HarfBuzz等不存在此问题）
+
 ## 问题反馈与联系方式
 如您在使用本字体的过程中如有任何问题和建议，或者是添加假想G源（即中国大陆汉字写法）的汉字请求，欢迎大家向作者反馈。您既可以在GіtΗub或Gitee中对应项目中提交issue（严禁提交无关内容），也可以通过下列联系方式中进行反馈。
 
@@ -65,8 +79,12 @@
 > 下面的GіtΗub链接在跳转前，请确保域名是“**g i t h u b . c o m**”（去掉字符间空格），本人无“重庆开源共创”旗下的GitCode平台账号，**从未主动且从未授权第三方**在GitCode等类似平台上创建存储库。**严禁GitCode等代码托管平台在未经作者本人书面许可的情况下私自搬运本字体以及与之关联的SuperHan字体项目，否则作者将追究法律责任。**
 ### 本项目地址
 - **【更新首发】GіtΗub：https://github.com/takushun-wu/WenJinMincho**<br>**（请确保上面的是GіtΗub链接）**
-- Gitee：https://gitee.com/takushun/WenJinMincho
+- Gitee<font color="red">**（v2.000之后将不再更新）**</font>：https://gitee.com/takushun/WenJinMincho
 - 百度网盘（仅提供字体文件与手册，包含历史版本，建议选择最新版本下载）：https://pan.baidu.com/s/1w98fMLCg3Zs9Ke0NabCJ3A?pwd=sffa
+#### 其他免费字体下载网站（有可能会更新滞后）
+- 猫啃网：https://www.maoken.com/freefonts/25129.html
+- 100font.com：https://www.100font.com/thread-919.htm
+- 字库星球：https://www.mfonts.cn/
 ### 联系方式
 - 代码托管平台
     * GіtΗub：https://github.com/takushun-wu/<br>**（请确保上面的是GіtΗub链接）**

@@ -11,7 +11,11 @@ Copyright 2022-2024 Shanggu Fonts (https://github.com/GuiWonder/Shanggu).
 
 © 2007–2024 Adobe, But Ko, CMEX, Creative Commons Corporation, GlyphWiki & Night Koo.
 
-Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic). Noto is a trademark of Google Inc.
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/). Noto is a trademark of Google Inc.
+
+Copyright © 2022 Buernia (https://github.com/Buernia), with Reserved Font Name 'Zhudou' and '煮豆'.
+
+Copyright © 2015 Google Inc.
 &nbsp;
 
 

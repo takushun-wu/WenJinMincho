@@ -13,7 +13,8 @@
 - [修改版Kage引擎](https://github.com/ge9/kage-engine-2/)
 - [Nozomu Katō修改的Source Serif](https://github.com/adobe-fonts/source-serif-pro/files/2654477/suppglyphs.zip)，[原文地址](https://github.com/adobe-fonts/source-serif/issues/22#issuecomment-444993639)
 - [CJK Symbols](https://github.com/unicode-org/cjk-symbols)
-- [Noto Serif](https://github.com/notofonts/latin-greek-cyrillic/)
+- [Noto Fonts](https://github.com/notofonts/)
+- [煮豆黑体](https://github.com/Buernia/Zhudou-Sans)
 ### 资料与数据
 - [GlyphWiki](https://zhs.glyphwiki.org/)
 - [Unicode官方码表](https://www.unicode.org/charts/)

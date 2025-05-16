@@ -5,7 +5,7 @@
 
 > [!CAUTION]
 >
-> 由于维护成本以及Gitee本身限制等原因，到v2.000版本（2025年下半年）发布之后，本字体的Gitee存储库将不再更新。请用户尽早转向GіtΗub官方链接、下述的百度网盘、猫啃网等下载链接下载最新版。
+> 到v2.000版本（2025年下半年）发布之后，本字体的Gitee存储库将继续进行更新。
 
 ## 简介
 文津宋体是一套以思源宋体及其衍生版本、利用GlyphWiki数据和修改版Kage引擎生成的汉字为主进行二次开发的大字符集宋体字库，实现Unicode定义的汉字和表意文字异体数据库（IVD）注册的字形全覆盖，其中Unicode汉字字形主要以中国大陆地区字形标准呈现。该字体系列采用OFL协议，任何个人与团体均可免费商用。
@@ -57,6 +57,8 @@
 
 **[相关字体和资源](RELATED.md)**
 
+**[打赏捐助者名单](DONATER.md)**
+
 ## 有关字体格式…
 - 本字体分为标准版OTF`otf/WenJinMinchoP#-Regular.otf`（PostScript曲线）、标准版TTF`ttf/WenJinMinchoP#-Regular.ttf`（TrueType曲线）、缩窄间距版TTF版本`ttf/WenJinMinchoCP#-Regular.ttf`以及Windows GDI兼容版TTF版本`ttf/WenJinMinchoWP#-Regular.ttf`。用户可根据实际情况任选其一安装；
 - 每个版本又分为TTC/OTC整合包版本和三个单独的TTF/OTF字体文件版本，用户仅需选择其一安装即可。
@@ -76,10 +78,10 @@
 
 > [!WARNING]
 >
-> 下面的GіtΗub链接在跳转前，请确保域名是“**g i t h u b . c o m**”（去掉字符间空格），本人无“重庆开源共创”旗下的GitCode平台账号，**从未主动且从未授权第三方**在GitCode等类似平台上创建存储库。**严禁GitCode等代码托管平台在未经作者本人书面许可的情况下私自搬运本字体以及与之关联的SuperHan字体项目，否则作者将追究法律责任。**
+> 下面的GіtΗub链接在跳转前，请确保域名是“**g i t h u b . c o m**”（去掉字符间空格），本人无“重庆开源共创”旗下的GitCode平台账号，**从未主动且从未授权第三方**在GitCode等类似平台上创建存储库。<font color="red">**严禁GitCode等代码托管平台在未经作者本人书面许可的情况下私自搬运本字体以及与之关联的SuperHan字体项目，否则作者将追究法律责任。作者无需为因以上行为对代码托管平台等第三方造成的损害承担任何责任。强烈建议用户从作者本人提供的官方渠道下载。**</font>
 ### 本项目地址
 - **【更新首发】GіtΗub：https://github.com/takushun-wu/WenJinMincho**<br>**（请确保上面的是GіtΗub链接）**
-- Gitee<font color="red">**（v2.000之后将不再更新）**</font>：https://gitee.com/takushun/WenJinMincho
+- Gitee<font color="red">**（v2.000之后正常更新）**</font>：https://gitee.com/takushun/WenJinMincho
 - 百度网盘（仅提供字体文件与手册，包含历史版本，建议选择最新版本下载）：https://pan.baidu.com/s/1w98fMLCg3Zs9Ke0NabCJ3A?pwd=sffa
 #### 其他免费字体下载网站（有可能会更新滞后）
 - 猫啃网：https://www.maoken.com/freefonts/25129.html

@@ -12,7 +12,11 @@
 
 版权所有©2007–2024，Adobe、But Ko、CMEX、Creative Commons Corporation、GlyphWiki和Night Koo。
 
-版权所有©2022，The Noto Project Authors(https://github.com/notofonts/latin-greek-cyrillic)。Noto是Google Inc.的商标。
+版权所有©2022，The Noto Project Authors(https://github.com/notofonts/)。Noto是Google Inc.的商标。
+
+版权所有©2022，Buernia (https://github.com/Buernia)，并保留字体名称“Zhudou”、“煮豆”。
+
+版权所有©2015，Google Inc.
 &nbsp;
 
 

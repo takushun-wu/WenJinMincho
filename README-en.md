@@ -55,6 +55,8 @@ This font is released under the [*SIL Open Font License*](https://openfontlicens
 
 **[Related fonts and resources(Chinese Version)](RELATED.md)**
 
+**[List of donors(Chinese Version)](DONATER.md)**
+
 ## About font format...
 - This font is categorized into Standard OTF`otf/WenJinMinchoP#-Regular.otf` (PostScript curves), Standard TTF`ttf/WenJinMinchoP#-Regular.ttf` (TrueType curves), Compact line-spacing TTF version`ttf/WenJinMinchoCP#-Regular.ttf` and Windows GDI compatible TTF version`ttf/WenJinMinchoWP#-Regular.ttf`. Users can choose any one of them to install according to the actual situation;
 - Each version is divided into a TTC/OTC integration package version and three separate TTF/OTF font file versions, users only need to choose one to install.

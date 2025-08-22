@@ -60,6 +60,12 @@
 **[打赏捐助者名单](DONATER.md)**
 
 ## 有关字体格式…
+> [!CAUTION]
+>
+> 2026年2月16日起，缩窄间距版（C版）和Windows GDI兼容版（W版）将不再更新，在此之前发布的C版和W版即为最后一个版本。恳请使用C版和W版的用户尽快更新替换成标准版本，尽量使用较新版本的软件，同时保持字体版本最新。作者在此为您带来的不便深表歉意。
+>
+> 如果您在替换标准版本存在困难（如新版软件存在不兼容的困扰），可自行对标准版字体文件进行适当改动，以符合您的需求。注意改作版本仍需遵守字体附带的协议（如OFL字体的改作版仍必须选择OFL协议）。
+
 - 本字体分为标准版OTF`otf/WenJinMinchoP#-Regular.otf`（PostScript曲线）、标准版TTF`ttf/WenJinMinchoP#-Regular.ttf`（TrueType曲线）、缩窄间距版TTF版本`ttf/WenJinMinchoCP#-Regular.ttf`以及Windows GDI兼容版TTF版本`ttf/WenJinMinchoWP#-Regular.ttf`。用户可根据实际情况任选其一安装；
 - 每个版本又分为TTC/OTC整合包版本和三个单独的TTF/OTF字体文件版本，用户仅需选择其一安装即可。
 
@@ -95,6 +101,7 @@
     * takushun-wuⓐoutlook●com
     * junny_2016ⓐqq●com
     * takushunwuⓐgmail●com
+- QQ群聊：[Takufont字体交流群（1053373658）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=0DEVVK0a4vQI0UK6W3p2Qm6elbNevf7T&authKey=5%2FxCGTevBX9SVkyH5LGMVvnZBZmSts4jreeWMGX5U%2F%2BubcDcYrchA0BOsOWsG3Se&noverify=0&group_code=1053373658)
 - QQ：②❽③❸⑨❹④❻①❸（添加好友请备注“**文津宋体问题反馈**”，暂不接受字体定制请求）
 #### 若通过下面的联系方式联系，我可能无法及时回复。
 - 哔哩哔哩：https://space.bilibili.com/156861970

@@ -58,6 +58,12 @@ This font is released under the [*SIL Open Font License*](https://openfontlicens
 **[List of donors(Chinese Version)](DONATER.md)**
 
 ## About font format...
+> [!CAUTION]
+>
+> Starting February 16, 2026, the compact line-spacing (C version) and Windows GDI compatible version (W version) will no longer be updated. The C version and W version released prior to this date will be the final versions. We kindly request users of the C version and W version to update and replace them with the standard version as soon as possible, use newer versions of the software whenever possible, and keep the font version up to date. The author sincerely apologizes for any inconvenience this may cause.
+>
+> If you encounter difficulties in replacing the standard version (such as compatibility issues with new software), you may modify the standard version font files appropriately to meet your needs. Note that modified versions must still comply with the license agreement accompanying the font (e.g., modified versions of OFL fonts must still use the OFL license).
+
 - This font is categorized into Standard OTF`otf/WenJinMinchoP#-Regular.otf` (PostScript curves), Standard TTF`ttf/WenJinMinchoP#-Regular.ttf` (TrueType curves), Compact line-spacing TTF version`ttf/WenJinMinchoCP#-Regular.ttf` and Windows GDI compatible TTF version`ttf/WenJinMinchoWP#-Regular.ttf`. Users can choose any one of them to install according to the actual situation;
 - Each version is divided into a TTC/OTC integration package version and three separate TTF/OTF font file versions, users only need to choose one to install.
 

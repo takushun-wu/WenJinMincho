@@ -13,9 +13,9 @@ Copyright 2022-2024 Shanggu Fonts (https://github.com/GuiWonder/Shanggu).
 
 Copyright 2022 The Noto Project Authors (https://github.com/notofonts/). Noto is a trademark of Google Inc.
 
-Copyright © 2022 Buernia (https://github.com/Buernia), with Reserved Font Name 'Zhudou' and '煮豆'.
-
 Copyright © 2015 Google Inc.
+
+Saudi Riyal Font © Emran Alhaddad - Used under SIL Open Font License 1.1
 &nbsp;
 
 

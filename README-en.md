@@ -14,7 +14,7 @@ There are relatively few free commercial and even open source large Han-ideograp
 
 In addition, WenJin Mincho also supports a variety of Chinese romanization(or phonetic notations) and Zhuyin systems, and is equipped with a variety of OpenType features that can be freely invoked, including glyph standard switching, support for Chinese romanization(or phonetic notation) and Zhuyin variants, support for Zhuyin symbols in vertical typesetting, correct positioning of combining characters, and punctuation extrusion.
 
-Before using the WenJin Mincho font suite, it is highly recommended that you read the following manual in order to fully utilize the features provided by the font suite.
+Before using the WenJin Mincho font suite, **it is important that you read the User's Manual in order to fully utilize the features offered by this font set and to avoid potential problems.**
 
 [Click to view the picture introduction(Chinese Version)](./INTRODUCE.md)
 
@@ -47,15 +47,17 @@ This font is released under the [*SIL Open Font License*](https://openfontlicens
 - This font does not contain any political intentions, metaphors, or purposes, and is not related to any political activities. The author shall not be liable for any joint legal liability arising from the use of this font.
 
 ## Other Materials (Click to Read)
-**[List of supported variant character sequences in WenJin Mincho(Chinese Version)](doc/ivdcharts.pdf)**
+**[Table of Ideographs Standard Variants in WenJin Mincho](doc/cvtable.pdf)**
+
+**[List of Supported Ideographic Variant Sequences(IVSes) in WenJin Mincho](doc/ivdcharts.pdf)**
 
 **[Changelog(Chinese Version)](CHANGELOG.md)**
 
 **[FAQ(Chinese Version)](FAQ.md)**
 
-**[Related fonts and resources(Chinese Version)](RELATED.md)**
+**[Related Fonts and Resources(Chinese Version)](RELATED.md)**
 
-**[List of donors(Chinese Version)](DONATER.md)**
+**[List of Donors(Chinese Version)](DONATER.md)**
 
 ## About font format...
 > [!CAUTION]
@@ -74,11 +76,7 @@ This font is released under the [*SIL Open Font License*](https://openfontlicens
 - If you mainly use applications based on Windows GDI environment in Windows system (e.g. Word 2010, BabelStone Pad), you find that quotation marks are displayed in western form, the left quotation mark is located on the left side in Word 2010 with a blank space; or some punctuation marks are displayed in western form (proportional, instead of Chinese full-width), you can choose the Windows GDI compatible version (line spacing parameters are the same as narrow spacing version). Or some punctuation is displayed in western form (proportional, not Chinese full-width), you can choose the Windows GDI-compatible version (line spacing parameters are the same as those of the narrower spacing version). **Other cases or non-Windows systems are not recommended** (only the Uniscribe shaping engine has the above problem; DirectWrite, HarfBuzz, etc. do not have this problem)
 
 ## Feedbacks and Contacts
-If you have any questions or suggestions about the use of this font, or requests to add hypothetical G-source (i.e., Chinese characters written in mainland China) Chinese characters, you are welcome to give feedback to the author. You can either submit an issue in the corresponding project in GіtΗub (submission of irrelevant content is STRICTLY PROHIBITED), or you can give feedback through the following contact information.
-
-> [!IMPORTANT]
->
-> Before giving feedback, please consult the [FAQ(Chinese Version)](FAQ.md) and the issue partition for this project to see if there are any duplicates.
+If you have any questions or suggestions about the use of this font, please read the main text of this manual, as well as the chapter “Frequently Asked Questions” (see the manual), the collection of known problems, and the issue partitions of GitHub and Gitee repositories in order to avoid repetitive and ineffective questioning, or the author reserves the right not to deal with them.
 
 ### Site of This Repository
 - **GіtΗub: https://github.com/takushun-wu/WenJinMincho**<br>

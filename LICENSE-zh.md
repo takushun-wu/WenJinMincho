@@ -2,13 +2,13 @@
 > 
 > 译文链接：https://www.maoken.com/ofl
 
-版权所有©2024-2025，Takushun Wu(https://github.com/takushun-wu/)，并保留字型名称“WenJin Mincho”、“<span lang="zh-Hans">文津宋体</span>”、“<span lang="zh-Hant">文津宋體</span>”、“<span lang="ja">文津明朝</span>”、“<span lang="ko">문진(文津) 명조</span>”。
+版权所有©2024-2026，Takushun Wu(https://github.com/takushun-wu/)，并保留字型名称“WenJin Mincho”、“<span lang="zh-Hans">文津宋体</span>”、“<span lang="zh-Hant">文津宋體</span>”、“<span lang="ja">文津明朝</span>”、“<span lang="ko">문진(文津) 명조</span>”。
 
-版权所有©2010-2024，Adobe (http://www.adobe.com/)，并保留字体名称“Source”。所有权利保留。“Source”是Adobe在美国和/或其他国家和地区的商标。
+版权所有©2010-2025，Adobe (http://www.adobe.com/)，并保留字体名称“Source”。所有权利保留。“Source”是Adobe在美国和/或其他国家和地区的商标。
 
-版权所有©2021-2024，Tamcy(https://github.com/chiron-fonts/chiron-sung-hk)。
+版权所有©2021-2025，Tamcy(https://github.com/chiron-fonts/chiron-sung-hk)。
 
-版权所有©2022-2024，Shanggu Fonts(https://github.com/GuiWonder/Shanggu)。
+版权所有©2022-2025，Shanggu Fonts(https://github.com/GuiWonder/Shanggu)。
 
 版权所有©2007–2024，Adobe、But Ko、CMEX、Creative Commons Corporation、GlyphWiki和Night Koo。
 

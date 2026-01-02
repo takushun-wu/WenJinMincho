@@ -15,7 +15,7 @@ Before using the WenJin Mincho font suite, **it is important that you read the U
 [Click to view the picture introduction(Chinese Version)](./INTRODUCE.md)
 
 ## User Manual
-[Click to read the full PDF of user manual(Chinese Version)](doc/manual.pdf)
+[Click to read the full PDF of user manual](doc/manual-en.pdf)
 
 ## Font License
 This font is released under the [*SIL Open Font License*](https://openfontlicense.org/open-font-license-official-text/). **Any individual, enterprise, team, etc. of this font for use, copy, modify, distribute and other arbitrary purposes that you have completely read, fully understand and agree to the *SIL Open Font License* and to ensure that not to make any objection. At the same time, you also understand and agree that: when you violate the *SIL Open Font License* will be strictly in accordance with the relevant provisions of the *SIL Open Font License* to deal with, if necessary, the author can be pursued for civil and/or criminal liability.**
@@ -47,13 +47,13 @@ This font is released under the [*SIL Open Font License*](https://openfontlicens
 
 **[List of Supported Ideographic Variant Sequences(IVSes) in WenJin Mincho](doc/ivdcharts.pdf)**
 
-**[Changelog(Chinese Version)](CHANGELOG.md)**
+**[Changelog](CHANGELOG-en.md)**
 
-**[FAQ(Chinese Version)](FAQ.md)**
+**[FAQ](FAQ-en.md)**
 
-**[Related Fonts and Resources(Chinese Version)](RELATED.md)**
+**[Related Fonts and Resources](RELATED.md)**
 
-**[List of Donors(Chinese Version)](DONATER.md)**
+**[List of Donors](DONATER.md)**
 
 ## About font format...
 > [!CAUTION]

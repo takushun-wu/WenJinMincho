@@ -19,10 +19,6 @@ Some applications (such as Word 2010, BabelStone Pad) use the GDI interface, so 
 
 Text based on [DirectWrite](https://learn.microsoft.com/en-us/windows/win32/directwrite/introducing-directwrite), HarfBuzz environments does not have this problem (such as Word 2013 and later versions, Google Chrome, Linux graphical interfaces).
 
-If you mainly use the above software and you encounter the problems mentioned above, you can use the Windows GDI compatible version. The font line spacing parameters are the same as the condensed line-spacing TTF version (similar to Zhongyi Song / SimSun), and the font name is "WenJin Mincho W Plane #" (functions related to Western text will be affected).
-
-**In principle, it is not recommended to use the Windows GDI compatible version (it is even less recommended for non-Windows environments), unless you encounter the above problems when using relevant software.**
-
 #### :question:Why does the condensed line-spacing version have severe clipping in some interfaces? Some lowercase letters (g, j, p, q, y) are not fully displayed at the bottom?
 The condensed line-spacing version itself is a special design for applications like Word. The line spacing parameters of the original version appear too large in Word, so special settings were made. Due to parameter reasons, this version will appear clipped on some interfaces. Users are advised to use the standard version on these interfaces, or modify the line spacing parameters themselves.
 
@@ -38,7 +34,6 @@ For specific changes, see: [Group:turgenev_KAGEエンジンの変更-技術的�
 #### :question:Why does WenJin Mincho appear to have excessive line spacing in Word (under default settings)?
 This is determined by the font's own line spacing parameters. The line spacing parameters of the original font follow the parameter settings of Source Han Sans. The line spacing parameters of most Chinese fonts are greater than 1 times the height of the Han ideograph, which makes the line spacing appear larger in software like Word.
 
-We also provide a condensed line-spacing TTF version for selection. The line spacing effect in Word software is similar to that of Zhongyi Song / SimSun. The font name is "WenJin Mincho C Plane #".
 #### :question:Why is WenJin Mincho divided into three fonts by plane? Why not put all fonts in the same ttf/otf file? What does "Plane 0/2/3" in the font name mean?
 Today's **single** otf/ttf format font (non-ttc collection) can only hold 65,535 glyphs, while WenJin Mincho supports over 110,000 Unicode Han ideographs and IVD variant characters. Therefore, a single ttf format file cannot hold all Han ideographs, so it must be divided into multiple fonts. We apologize for the inconvenience caused by technical limitations.
 

@@ -1,6 +1,16 @@
 [点击查看中文版更新日志](./CHANGELOG.md)
 
 # Changelog
+## 2.003(2026.2.20)
+#### Improvements & Bug Fixes
+- Corrected 7 Han ideograph glyphs in code chart (`cv01`): 厶夂彐愼攵虍鹱.
+#### Documentation
+- Fixed the LaTeX example for calling italics in the User Manual.
+
+> [!CAUTION]
+>
+> Compact-spacing version (C version) and Windows GDI compatible version (W version) will no longer be updated starting from this version.
+
 ## 2.002(2026.1.2)
 #### New Additions
 - Added 4 pseudo G-source glyphs for Han ideographs: 𨯌𪦪𪸛𫲇;

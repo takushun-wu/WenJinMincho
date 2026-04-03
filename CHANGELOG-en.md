@@ -1,6 +1,15 @@
 [点击查看中文版更新日志](./CHANGELOG.md)
 
 # Changelog
+## 2.010(2026.4.3)
+#### New Additions
+- Added the _Alternate Annotation Forms_ (`nalt`) feature for numbering characters, allowing substitution of numbers, letters, and ordinal Han ideographs;
+#### Improvements & Bug Fixes
+- Improved the design of the retroflex nasal sound (Erhua) symbols "𖿲𖿳";
+- Corrected 3 Han ideograph glyphs: 𬹶𮲿𮵪;
+- Modified the default glyphs of 8 Han ideographs: 䬒䱁帯裦褏褎襃鿮;
+- Fixed the issue where CJK Compatibility Ideographs in SIP were displayed as their basic glyphs in the browser, i.e., cross-plane glyphs included in plane 0/2 fonts but not mapped to Unicode code points.
+
 ## 2.003(2026.2.20)
 #### Improvements & Bug Fixes
 - Corrected 7 Han ideograph glyphs in code chart (`cv01`): 厶夂彐愼攵虍鹱.

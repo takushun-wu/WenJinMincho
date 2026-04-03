@@ -17,30 +17,32 @@ Before using the WenJin Mincho font suite, **it is important that you read the U
 ## User Manual
 [Click to read the full PDF of user manual](doc/manual-en.pdf)
 
-## Font License
-This font is released under the [*SIL Open Font License*](https://openfontlicense.org/open-font-license-official-text/). **Any individual, enterprise, team, etc. of this font for use, copy, modify, distribute and other arbitrary purposes that you have completely read, fully understand and agree to the *SIL Open Font License* and to ensure that not to make any objection. At the same time, you also understand and agree that: when you violate the *SIL Open Font License* will be strictly in accordance with the relevant provisions of the *SIL Open Font License* to deal with, if necessary, the author can be pursued for civil and/or criminal liability.**
+## Font 
+This font is released under the [_SIL Open Font License 1.1_](https://openfontlicense.org/open-font-license-official-text/). **By using, copying, modifying, or distributing this font for any purpose, you acknowledge that you have fully read, understood, and agreed to the terms of the _SIL Open Font License_, without any objections.** Your authorization to use, modify, and distribute this font will automatically terminate if you fail to comply with any of the terms outlined in the _SIL Open Font License_.
 
 [Click to read the *SIL Open Font License*](LICENSE.md)
 
 [Click to read the *SIL Open Font License* FAQ](https://openfontlicense.org/ofl-faq/)
-### You can do...
-- Any individual, group, organization, or enterprise may use it for commercial and non-commercial purposes free of charge, without the need to pay fees, inform the author in advance, indicate the source information, or obtain the author's permission.
-- Republish or install font files, embed them into any software or device, and the software or device can be redistributed or resold.
-- Modify, expand and format font files, but if you want to publish a second-modified work, **must meet the following conditions**:
-    - **Published under the *SIL Open Font License***, and **the reserved name of this font (and its translations in other languages) may not be used: WenJin Mincho, <span lang="zh-Hans">文津宋体</span>, <span lang="zh-Hant">文津宋體</span>, <span lang="ja">文津明朝</span>, <span lang="ko">문진(文津) 명조</span>** (If you only perform format conversion or subsetting of the source font, and do not publish the changed font file separately, you can continue to use this reserved name);
-    - It must be distributed free of charge (including making an installation package only for the purpose of installing this font, but not in the form of a chimera with other software), and no additional restrictions may be added on the basis of the *SIL Open Font License*;
-    - The copyright notice at the beginning of the license provided with this font is retained in its entirety, regardless of the form of modification or the inclusion of glyphs from this font in other OFL fonts.
-### You cannot do...
-- Sell any part of the font file (including but not limited to glyphs, OpenType feature) for resale, including but not limited to selling the font file separately, bundling it with other fonts, requiring payment for special permissions to use the font, etc.
-- Publish any part of the font file under a non *SIL Open Font License*.
-- Using this font file or its derivatives to harm the normal operation of computer systems (including but not limited to embedding computer viruses in font files, subjectively intentionally exploiting vulnerabilities in programs or systems to disrupt the normal operation of computer systems, etc.).
-- Use this font for purposes that violate local laws and regulations.
-- Other behaviors that violate the *SIL Open Font License* that are not listed above.
-### Other Statements
-- The author's failure to exercise, timely exercise, or fully exercise the legitimate rights enjoyed by the *SIL Open Font License* shall not be deemed as a waiver of such rights, nor shall it affect the author's future exercise of such rights.
-- If one or more of the terms of the *SIL Open Font License* is held to be invalid or unenforceable in whole or in part or unenforceable due to force majeure, this shall not impair the enforceability of the other terms of the *SIL Open Font License*;
-- **This font is a free commercial font. Any behavior that requires payment (or require payment for special permissions) to obtain this font is considered fraudulent. Beware of being deceived.** 
-- This font does not contain any political intentions, metaphors, or purposes, and is not related to any political activities. The author shall not be liable for any joint legal liability arising from the use of this font.
+
+### You are permitted to:
+- Use the font for any commercial or non-commercial purposes (such as typesetting, printing, design, etc.) free of charge, without the need to pay fees, notify the author, credit the source, or seek prior permission;
+- Freely distribute the font files, or embed/bundle them into any software or device, even if that software or device is distributed or sold commercially;
+- Modify, expand, and convert the format of the font files. However, if you distribute or publish a modified derivative font work, **the following conditions must be met**:
+    - **The derivative work must remain under the _SIL Open Font License 1.1_**, and no additional licensing restrictions may be added;
+    - **You must not use the Reserved Font Names (RFNs) or their translations in other languages: WenJin Mincho, <span lang="zh-Hans">文津宋体</span>, <span lang="zh-Hant">文津宋體</span>, <span lang="ja">文津明朝</span>, <span lang="ko">문진(文津) 명조</span>**. This means that if you modify the glyphs, kerning, or significantly remove characters and release it as a standalone font, you must rename your derivative font;
+    - **WebFont Subsetting Exception**: As a special exception, if you subset or convert the format of this font (e.g., to WOFF/WOFF2) solely for the purpose of web font delivery and optimization, and do not distribute the modified version as a downloadable, installable desktop font, you are permitted to retain the Reserved Font Names;
+    - Retain the original copyright notice found in the provided license file (`LICENSE.md`), regardless of the modifications made.
+
+### You are strictly prohibited from:
+- Selling the font files or their derivative versions **by themselves** (though they may be sold when bundled with other software);
+- Releasing the font files or any modified derivative fonts under any license other than the _SIL Open Font License_;
+- Using the original author's name or the Reserved Font Names to promote, endorse, or advertise your derivative font work without explicit written permission.
+
+### Disclaimers and Declarations
+- The author's failure to exercise, delayed exercise, or partial exercise of any legal rights under the _SIL Open Font License_ shall not be construed as a waiver of such rights, nor shall it preclude the author from exercising them in the future;
+- **This is a free-for-commercial-use font. Any request for payment to acquire the font files themselves, or any requirement to purchase special permissions to use the font, is a scam. Please be cautious;**
+- **Disclaimer of Warranty**: THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. In no event shall the author be liable for any claim, damages, or other liability arising from, out of, or in connection with the font software or the use or other dealings in the font software;
+- This font contains no political intent, metaphor, or purpose. Any text content generated by users typesetting with this font, any system security issues caused, or any violations of local laws and regulations are solely the personal actions of the user. The author assumes no liability whatsoever.
 
 ## Other Materials (Click to Read)
 **[Table of Ideographs Standard Variants in WenJin Mincho](doc/cvtable.pdf)**

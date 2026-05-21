@@ -1,6 +1,22 @@
 [点击查看中文版更新日志](./CHANGELOG.md)
 
 # Changelog
+## 2.011(2026.5.22)
+#### Improvements & Bug Fixes
+- Modified the default glyphs of 11 Han ideographs: 㓰㢜㽕䁞䘠䜌䢈壻壿𠹸𡠨;
+- Optimized 2 GB-stype Han ideograph glyphs (`cv02`): 䁞壻;
+- Mapped 1 pair of mergeable IVS Han ideographs to the same glyph: 澎澎󠄀（`6F8E/6F8E E0100`）;
+- Added composite character `U+0331` "◌̱", corrected the glyph decomposition/composition of "Ṟṟ";
+- Added character `U+2303` "⌃", mapped to "^";
+- Corrected the descriptive text for the `cv02` (GB glyph) feature in the font (*GB 18030-2022 defined glyph*→***GB/T 22321.1-2025*** *defined glyph*);
+- Modified some Han ideographs to match the style of Source Han Serif;
+- Lowered the height of the upper half of the "讠" radical, improving the visual effect (modified 197 ideographs).
+<details>
+<summary>Click to view</summary>
+
+㺆䜣䜤䜥䜦䜧䜨䜩储槠讠计订讣认讥讦讧讨让讪讫讬训议讯记讱讲讳讴讵讶讷许讹论讻讼讽设访诀证诂诃评诅识诇诈诉诊诋诌词诎诏诐译诒诓诔试诖诗诘诙诚诛诜话诞诟诠诡询诣诤该详诧诨诩诪诫诬语诮误诰诱诲诳说诵诶请诸诹诺读诼诽课诿谀谁谂调谄谅谆谇谈谉谊谋谌谍谎谏谐谑谒谓谔谕谖谗谘谙谚谛谜谝谞谟谠谡谢谣谤谥谦谧谨谩谪谫谬谭谮谯谰谱谲谳谴谵谶辩霭𧮪𫍙𫍟𫍡𫍢𫍣𫍯𫍲𫍻𫍽𫍾𬣙𬣞𬣡𬣳𬣽𬤇𬤊𬤐𬤝𬤥𬤨𬤮𬤰𮙊𮙋𰵝𰵞𰵧𰵮𰵴𰵼𰶊𲂎
+</details>
+
 ## 2.010(2026.4.3)
 #### New Additions
 - Added the _Alternate Annotation Forms_ (`nalt`) feature for numbering characters, allowing substitution of numbers, letters, and ordinal Han ideographs;

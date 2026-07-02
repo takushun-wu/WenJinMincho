@@ -1,6 +1,15 @@
 [点击查看中文版更新日志](./CHANGELOG.md)
 
 # Changelog
+## 2.012(2026.7.3)
+#### New Additions
+- Added 2 pseudo G-source glyphs for Han ideographs: 𠹳𱉻;
+- Added character `U+A792` "Ꞓ" (Cambrian symbol);
+- Added the following 37 non-Han characters: ˍ‾␀␁␂␃␄␅␆␇␈␉␊␋␌␍␎␏␐␑␒␓␔␕␖␗␘␙␚␛␜␝␞␟␡♁￭
+#### Improvements & Bug Fixes
+- Modified the default glyph of 1 Han ideograph: 𮹝;
+- Modified some Han ideographs to match the style of Source Han Serif.
+
 ## 2.011(2026.5.22)
 #### Improvements & Bug Fixes
 - Modified the default glyphs of 11 Han ideographs: 㓰㢜㽕䁞䘠䜌䢈壻壿𠹸𡠨;
@@ -127,4 +136,4 @@
 ---
 [Click to read changelog of pre-v2.000 (Chinese version)](CHANGELOG.md)
 
-[Click to read changelog of beta version (Chinese version)](CHANGELOG-BETA.md)
+[Click to read changelog of beta version (Chinese version, in GitHub)](https://github.com/takushun-wu/WenJinMincho/blob/main/CHANGELOG-BETA.md)

@@ -1,6 +1,16 @@
 [点击查看中文版更新日志](./CHANGELOG.md)
 
 # Changelog
+## 2.020(2026.8.21)
+#### New Additions
+- Added 7 IVD variant ideographs from the Japanese Moji_Joho project, [details can be found here](https://www.unicode.org/ivd/pri/pri546/).
+- Added the following 9 non-Han characters: ⁺⁻₊₋⚠￩￪￫￬
+- Added 1/3, 1/4, 1/6em width, digit width, ultra-thin (1/8em width), and fine (1/16em width) spaces;
+- Added vertical forms of 〝〞〟.
+#### Improvements & Bug Fixes
+- Corrected 26 Han ideographs: 𠴍𨥖\*𪠰𪦘𪧵𪭖𪿫†𫁯𫇢𫕿𫧼𫯉𫲱𫳶𫵓𬀠𬌢𬟟𬢓𬩣𬪜𬭞𬸢𬻼𭄔𰍺 (\* is default and GB/T 22321.1-2025 glyph, † is only code chart and GB/T 22321.1-2025 glyph);
+- Optimized 4 Han ideographs: 𪤵𫑞𬔠𬩑.
+
 ## 2.012(2026.7.3)
 #### New Additions
 - Added 2 pseudo G-source glyphs for Han ideographs: 𠹳𱉻;

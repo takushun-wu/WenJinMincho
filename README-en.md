@@ -60,9 +60,11 @@ This font is released under the [_SIL Open Font License 1.1_](https://openfontli
 ## About font format...
 > [!CAUTION]
 >
-> Starting February 16, 2026, the compact line-spacing (C version) and Windows GDI compatible version (W version) will no longer be updated. The C version and W version released prior to this date will be the final versions. We kindly request users of the C version and W version to update and replace them with the standard version as soon as possible, use newer versions of the software whenever possible, and keep the font version up to date. The author sincerely apologizes for any inconvenience this may cause.
+> Starting from February 16, 2026, the Windows GDI Compatible Version (W Version) will no longer be updated. The W Version released before this date will be the last versions. Users of W Version are urged to update and replace them with the standard version as soon as possible, try to use newer versions of software, and keep the font version up to date. The author apologizes for any inconvenience caused.
 >
-> If you encounter difficulties in replacing the standard version (such as compatibility issues with new software), you may modify the standard version font files appropriately to meet your needs. Note that modified versions must still comply with the license agreement accompanying the font (e.g., modified versions of OFL fonts must still use the OFL license).
+> If you have difficulty replacing the standard version (such as incompatibility with new software), you can modify the standard version font file yourself to meet your needs. Note that the modified version still needs to comply with the license attached to the font (e.g., modified versions of OFL fonts must still choose the OFL license).
+>
+> From October 2, 2026, the Compact Line-Spacing Version (C Version) recovers update support.
 
 - This font is categorized into Standard OTF`otf/WenJinMinchoP#-Regular.otf` (PostScript curves), Standard TTF`ttf/WenJinMinchoP#-Regular.ttf` (TrueType curves), Compact line-spacing TTF version`ttf/WenJinMinchoCP#-Regular.ttf` and Windows GDI compatible TTF version`ttf/WenJinMinchoWP#-Regular.ttf`. Users can choose any one of them to install according to the actual situation;
 - Each version is divided into a TTC/OTC integration package version and three separate TTF/OTF font file versions, users only need to choose one to install.

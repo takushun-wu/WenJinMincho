@@ -1,6 +1,12 @@
 [点击查看中文版更新日志](./CHANGELOG.md)
 
 # Changelog
+## 2.101(2026.11.20)
+- Corrected 2 Han ideographs: 偼\*𭳄（\* is only code chart glyph）
+- According to Unicode 18.0, modified the styles of the following 3 ideographic description characters: ⿾⿿㇯
+- Modified some Han ideographs to match the style of Source Han Serif;
+- Merged some IVD glyphs.
+
 ## 2.100(2026.10.2)
 ### Adapted to Unicode 18.0
 - Added 1 Han ideograph from Extension D: `U+2B81E` “𫠞” (⿰日欠);
